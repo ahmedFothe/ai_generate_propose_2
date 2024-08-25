@@ -1,6 +1,6 @@
-### _Source Code_ 
+### __Source Code_ 
 
-##html code 
+## html code 
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -28,7 +28,7 @@
 
 --- 
 
-##css code 
+## css code 
 ```css
 body {
     font-family: Arial, sans-serif;
@@ -77,7 +77,7 @@ button:hover {
 
 --- 
 
-##js code
+## js code
 ```js
 document.addEventListener('DOMContentLoaded', () => {
     const revealButton = document.getElementById('revealButton');
